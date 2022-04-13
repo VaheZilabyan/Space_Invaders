@@ -1,2 +1,4 @@
 # Space_Invaders
-project in C++
+game space invaders in C++
+compile - make
+run - ./spaceinvaders
