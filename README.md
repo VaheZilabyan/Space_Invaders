@@ -1,4 +1,4 @@
 # Space_Invaders
-game space invaders in C++
+Game Space Invaders
 For compile - make , 
 For run - ./spaceinvaders
